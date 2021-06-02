@@ -18,5 +18,4 @@ This image gallery presents a portion of Harper’s commissioned work by the U.S
 
 Take a moment to explore Harper’s renowned, commissioned artwork and the corresponding, curated collection of maps in the galleries linked below.
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
